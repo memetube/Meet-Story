@@ -1,0 +1,46 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: "Bungee Shade", cursive;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#navbar {
+    height: 1.3cm;
+    width: 100%;
+    background-color: yellow;
+    position: absolute;
+    top: 0%;
+}
+
+#navbar img {
+    height: 1.3cm;
+    float: right;
+}
+
+#content {
+    width: 98%;
+    height: 10cm;
+    position: absolute;
+    top: 1.8cm;
+    text-align: left;
+    font-size: 16px;
+    text-align: center;
+    text-align: left;
+    font-size: 20px;
+}
+
+#conversation{
+    margin:0.4cm;
+    color:rebeccapurple
+}
+
+
+#conversation b{
+    color:black
+}
